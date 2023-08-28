@@ -1,0 +1,2 @@
+Prefix plugins/SeparateMetabolomics/example/
+Plugin SeparateMetabolomics inputfile parameters.txt outputfile out
